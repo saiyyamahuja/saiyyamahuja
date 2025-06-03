@@ -23,16 +23,6 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiyyamahuja&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-## 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyyamahuja&theme=react-dark" alt="GitHub Contribution Graph"/>
-</p>
-
 <p align="center">
   <h3>Visits:</h3>
   <img src="https://profile-counter.glitch.me/saiyyamahuja/count.svg" alt="Visitor Count"/>
@@ -64,6 +54,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiyyamahuja&bg_color=000000&color=ffffff&line=9e4c98&point=2e2d2d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <p>
