@@ -58,3 +58,9 @@
   ✅ <a href="mailto:saiyyam@gmail.com">Email</a><br>
   ✅ <a href="https://www.linkedin.com/in/saiyyamahuja/" target="_blank">LinkedIn</a> 
 </p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saiyyamahuja&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
